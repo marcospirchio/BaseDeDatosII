@@ -1,0 +1,452 @@
+[
+    {
+        "nombre": "Stacey",
+        "apellido": "Williams",
+        "equipo": "Orlando Magic",
+        "edad": 32,
+        "nro_camiseta": 46,
+        "puntos_anotados": 25.8,
+        "partidos_jugados": 285
+    },
+    {
+        "nombre": "Danny",
+        "apellido": "Barnett",
+        "equipo": "Orlando Magic",
+        "edad": 35,
+        "nro_camiseta": 65,
+        "puntos_anotados": 17.9,
+        "partidos_jugados": 803
+    },
+    {
+        "nombre": "Christopher",
+        "apellido": "Lopez",
+        "equipo": "Washington Wizards",
+        "edad": 31,
+        "nro_camiseta": 35,
+        "puntos_anotados": 32.0,
+        "partidos_jugados": 301
+    },
+    {
+        "nombre": "Stephanie",
+        "apellido": "Le",
+        "equipo": "New York Knicks",
+        "edad": 21,
+        "nro_camiseta": 44,
+        "puntos_anotados": 25.9,
+        "partidos_jugados": 1163
+    },
+    {
+        "nombre": "Kelly",
+        "apellido": "Spencer",
+        "equipo": "Toronto Raptors",
+        "edad": 24,
+        "nro_camiseta": 64,
+        "puntos_anotados": 26.2,
+        "partidos_jugados": 70
+    },
+    {
+        "nombre": "Manuel",
+        "apellido": "Marquez",
+        "equipo": "Golden State Warriors",
+        "edad": 31,
+        "nro_camiseta": 93,
+        "puntos_anotados": 29.1,
+        "partidos_jugados": 544
+    },
+    {
+        "nombre": "Chelsea",
+        "apellido": "Franklin",
+        "equipo": "Charlotte Hornets",
+        "edad": 21,
+        "nro_camiseta": 56,
+        "puntos_anotados": 23.0,
+        "partidos_jugados": 772
+    },
+    {
+        "nombre": "Michelle",
+        "apellido": "Stephens",
+        "equipo": "Sacramento Kings",
+        "edad": 26,
+        "nro_camiseta": 86,
+        "puntos_anotados": 23.7,
+        "partidos_jugados": 812
+    },
+    {
+        "nombre": "Ryan",
+        "apellido": "Navarro",
+        "equipo": "Dallas Mavericks",
+        "edad": 23,
+        "nro_camiseta": 43,
+        "puntos_anotados": 27.2,
+        "partidos_jugados": 929
+    },
+    {
+        "nombre": "Lynn",
+        "apellido": "Johnson",
+        "equipo": "Memphis Grizzlies",
+        "edad": 36,
+        "nro_camiseta": 20,
+        "puntos_anotados": 23.9,
+        "partidos_jugados": 38
+    },
+    {
+        "nombre": "Andrea",
+        "apellido": "James",
+        "equipo": "Houston Rockets",
+        "edad": 27,
+        "nro_camiseta": 46,
+        "puntos_anotados": 10.8,
+        "partidos_jugados": 1105
+    },
+    {
+        "nombre": "Andrea",
+        "apellido": "Smith",
+        "equipo": "Houston Rockets",
+        "edad": 26,
+        "nro_camiseta": 28,
+        "puntos_anotados": 11.4,
+        "partidos_jugados": 493
+    },
+    {
+        "nombre": "Kaitlin",
+        "apellido": "Manning",
+        "equipo": "Detroit Pistons",
+        "edad": 28,
+        "nro_camiseta": 46,
+        "puntos_anotados": 25.6,
+        "partidos_jugados": 626
+    },
+    {
+        "nombre": "David",
+        "apellido": "Morales",
+        "equipo": "Washington Wizards",
+        "edad": 31,
+        "nro_camiseta": 47,
+        "puntos_anotados": 13.1,
+        "partidos_jugados": 10
+    },
+    {
+        "nombre": "Raymond",
+        "apellido": "Lambert",
+        "equipo": "Sacramento Kings",
+        "edad": 21,
+        "nro_camiseta": 24,
+        "puntos_anotados": 27.0,
+        "partidos_jugados": 38
+    },
+    {
+        "nombre": "Robert",
+        "apellido": "Cardenas",
+        "equipo": "Boston Celtics",
+        "edad": 18,
+        "nro_camiseta": 96,
+        "puntos_anotados": 15.5,
+        "partidos_jugados": 1033
+    },
+    {
+        "nombre": "Donald",
+        "apellido": "Gardner",
+        "equipo": "Washington Wizards",
+        "edad": 19,
+        "nro_camiseta": 63,
+        "puntos_anotados": 12.9,
+        "partidos_jugados": 985
+    },
+    {
+        "nombre": "Rickey",
+        "apellido": "Green",
+        "equipo": "Utah Jazz",
+        "edad": 22,
+        "nro_camiseta": 57,
+        "puntos_anotados": 33.9,
+        "partidos_jugados": 272
+    },
+    {
+        "nombre": "Nathan",
+        "apellido": "Davenport",
+        "equipo": "Charlotte Hornets",
+        "edad": 40,
+        "nro_camiseta": 82,
+        "puntos_anotados": 25.6,
+        "partidos_jugados": 374
+    },
+    {
+        "nombre": "Ricky",
+        "apellido": "Ward",
+        "equipo": "Washington Wizards",
+        "edad": 22,
+        "nro_camiseta": 39,
+        "puntos_anotados": 31.3,
+        "partidos_jugados": 861
+    },
+    {
+        "nombre": "Jasmine",
+        "apellido": "Roy",
+        "equipo": "Houston Rockets",
+        "edad": 31,
+        "nro_camiseta": 67,
+        "puntos_anotados": 16.3,
+        "partidos_jugados": 355
+    },
+    {
+        "nombre": "Alejandro",
+        "apellido": "Franklin",
+        "equipo": "New York Knicks",
+        "edad": 27,
+        "nro_camiseta": 25,
+        "puntos_anotados": 19.1,
+        "partidos_jugados": 664
+    },
+    {
+        "nombre": "Philip",
+        "apellido": "Stevens",
+        "equipo": "Memphis Grizzlies",
+        "edad": 21,
+        "nro_camiseta": 78,
+        "puntos_anotados": 25.2,
+        "partidos_jugados": 1136
+    },
+    {
+        "nombre": "Jillian",
+        "apellido": "Foley",
+        "equipo": "Milwaukee Bucks",
+        "edad": 28,
+        "nro_camiseta": 12,
+        "puntos_anotados": 11.9,
+        "partidos_jugados": 440
+    },
+    {
+        "nombre": "Kevin",
+        "apellido": "Brown",
+        "equipo": "Dallas Mavericks",
+        "edad": 39,
+        "nro_camiseta": 85,
+        "puntos_anotados": 34.8,
+        "partidos_jugados": 103
+    },
+    {
+        "nombre": "Mackenzie",
+        "apellido": "Flynn",
+        "equipo": "Philadelphia 76ers",
+        "edad": 24,
+        "nro_camiseta": 23,
+        "puntos_anotados": 17.1,
+        "partidos_jugados": 893
+    },
+    {
+        "nombre": "Johnny",
+        "apellido": "Keith",
+        "equipo": "Brooklyn Nets",
+        "edad": 19,
+        "nro_camiseta": 1,
+        "puntos_anotados": 10.4,
+        "partidos_jugados": 131
+    },
+    {
+        "nombre": "Shelby",
+        "apellido": "Walsh",
+        "equipo": "New Orleans Pelicans",
+        "edad": 35,
+        "nro_camiseta": 45,
+        "puntos_anotados": 33.4,
+        "partidos_jugados": 570
+    },
+    {
+        "nombre": "Donald",
+        "apellido": "Bell",
+        "equipo": "Toronto Raptors",
+        "edad": 30,
+        "nro_camiseta": 7,
+        "puntos_anotados": 28.3,
+        "partidos_jugados": 967
+    },
+    {
+        "nombre": "Brian",
+        "apellido": "Henderson",
+        "equipo": "Milwaukee Bucks",
+        "edad": 22,
+        "nro_camiseta": 33,
+        "puntos_anotados": 15.6,
+        "partidos_jugados": 258
+    },
+    {
+        "nombre": "David",
+        "apellido": "Flores",
+        "equipo": "Toronto Raptors",
+        "edad": 39,
+        "nro_camiseta": 28,
+        "puntos_anotados": 14.2,
+        "partidos_jugados": 970
+    },
+    {
+        "nombre": "James",
+        "apellido": "Collins",
+        "equipo": "Philadelphia 76ers",
+        "edad": 27,
+        "nro_camiseta": 89,
+        "puntos_anotados": 10.5,
+        "partidos_jugados": 438
+    },
+    {
+        "nombre": "Lisa",
+        "apellido": "Carr",
+        "equipo": "Charlotte Hornets",
+        "edad": 20,
+        "nro_camiseta": 68,
+        "puntos_anotados": 25.1,
+        "partidos_jugados": 653
+    },
+    {
+        "nombre": "Dorothy",
+        "apellido": "Anderson",
+        "equipo": "Boston Celtics",
+        "edad": 20,
+        "nro_camiseta": 82,
+        "puntos_anotados": 19.3,
+        "partidos_jugados": 893
+    },
+    {
+        "nombre": "Angel",
+        "apellido": "Wilson",
+        "equipo": "Los Angeles Lakers",
+        "edad": 37,
+        "nro_camiseta": 81,
+        "puntos_anotados": 11.3,
+        "partidos_jugados": 379
+    },
+    {
+        "nombre": "Stephanie",
+        "apellido": "Miller",
+        "equipo": "Golden State Warriors",
+        "edad": 18,
+        "nro_camiseta": 8,
+        "puntos_anotados": 16.3,
+        "partidos_jugados": 1003
+    },
+    {
+        "nombre": "Zachary",
+        "apellido": "Douglas",
+        "equipo": "Washington Wizards",
+        "edad": 39,
+        "nro_camiseta": 92,
+        "puntos_anotados": 23.2,
+        "partidos_jugados": 352
+    },
+    {
+        "nombre": "Jessica",
+        "apellido": "Andrews",
+        "equipo": "Detroit Pistons",
+        "edad": 19,
+        "nro_camiseta": 42,
+        "puntos_anotados": 30.8,
+        "partidos_jugados": 323
+    },
+    {
+        "nombre": "Gail",
+        "apellido": "Welch",
+        "equipo": "Los Angeles Clippers",
+        "edad": 32,
+        "nro_camiseta": 49,
+        "puntos_anotados": 11.0,
+        "partidos_jugados": 246
+    },
+    {
+        "nombre": "Tyler",
+        "apellido": "Miller",
+        "equipo": "Washington Wizards",
+        "edad": 36,
+        "nro_camiseta": 81,
+        "puntos_anotados": 13.2,
+        "partidos_jugados": 478
+    },
+    {
+        "nombre": "Joanna",
+        "apellido": "Lucas",
+        "equipo": "Boston Celtics",
+        "edad": 28,
+        "nro_camiseta": 25,
+        "puntos_anotados": 12.7,
+        "partidos_jugados": 1166
+    },
+    {
+        "nombre": "Nicole",
+        "apellido": "Harrell",
+        "equipo": "Minnesota Timberwolves",
+        "edad": 27,
+        "nro_camiseta": 84,
+        "puntos_anotados": 25.2,
+        "partidos_jugados": 1156
+    },
+    {
+        "nombre": "Christine",
+        "apellido": "Bruce",
+        "equipo": "Miami Heat",
+        "edad": 19,
+        "nro_camiseta": 25,
+        "puntos_anotados": 24.1,
+        "partidos_jugados": 423
+    },
+    {
+        "nombre": "Brandy",
+        "apellido": "Paul",
+        "equipo": "Washington Wizards",
+        "edad": 31,
+        "nro_camiseta": 93,
+        "puntos_anotados": 27.1,
+        "partidos_jugados": 137
+    },
+    {
+        "nombre": "Tina",
+        "apellido": "Conley",
+        "equipo": "New York Knicks",
+        "edad": 37,
+        "nro_camiseta": 56,
+        "puntos_anotados": 13.7,
+        "partidos_jugados": 372
+    },
+    {
+        "nombre": "Beth",
+        "apellido": "Cervantes",
+        "equipo": "Utah Jazz",
+        "edad": 30,
+        "nro_camiseta": 85,
+        "puntos_anotados": 21.5,
+        "partidos_jugados": 1190
+    },
+    {
+        "nombre": "Shannon",
+        "apellido": "Mitchell",
+        "equipo": "Atlanta Hawks",
+        "edad": 27,
+        "nro_camiseta": 33,
+        "puntos_anotados": 16.3,
+        "partidos_jugados": 653
+    },
+    {
+        "nombre": "Alexander",
+        "apellido": "Ortiz",
+        "equipo": "Denver Nuggets",
+        "edad": 30,
+        "nro_camiseta": 58,
+        "puntos_anotados": 16.6,
+        "partidos_jugados": 965
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Thompson",
+        "equipo": "Houston Rockets",
+        "edad": 38,
+        "nro_camiseta": 52,
+        "puntos_anotados": 30.3,
+        "partidos_jugados": 628
+    },
+    {
+        "nombre": "Theresa",
+        "apellido": "Daniels",
+        "equipo": "Chicago Bulls",
+        "edad": 36,
+        "nro_camiseta": 80,
+        "puntos_anotados": 24.4,
+        "partidos_jugados": 293
+    }
+]
